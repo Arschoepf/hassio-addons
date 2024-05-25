@@ -5,7 +5,7 @@ arch:
 - armhf
 codenotary: codenotary@degatano.com
 description: AMR2MQTT for Home Assistant
-image: ghcr.io/mdegat01/amr2mqtt/aarch64:2.1.2
+image: ghcr.io/mdegat01/amr2mqtt/{arch}
 init: false
 map:
 - ssl
@@ -46,4 +46,4 @@ uart: true
 udev: true
 url: https://github.com/Arschoepf/addon-amr2mqtt
 usb: true
-version: 2.2
+version: 2.1.2
