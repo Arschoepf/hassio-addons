@@ -3,9 +3,8 @@ arch:
 - amd64
 - armv7
 - armhf
-codenotary: codenotary@degatano.com
 description: AMR2MQTT for Home Assistant
-image: ghcr.io/mdegat01/amr2mqtt/{arch}
+image: ghcr.io/mdegat01/amr2mqtt/aarch64:2.1.2
 init: false
 map:
 - ssl
