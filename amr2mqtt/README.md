@@ -75,9 +75,9 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/t/home-assistant-add-on-amr2mqtt/378196
 [mdegat01]: https://github.com/Arschoepf
 [issue]: https://github.com/mdegat01/addon-amr2mqtt/issues
-[license-shield]: https://img.shields.io/github/license/mdegat01/addon-amr2mqtt.svg
+[license-shield]: https://img.shields.io/github/license/Arschoepf/addon-amr2mqtt.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [ragingcomputer]: https://github.com/ragingcomputer
-[releases-shield]: https://img.shields.io/github/release/mdegat01/addon-amr2mqtt.svg
+[releases-shield]: https://img.shields.io/github/release/Arschoepf/addon-amr2mqtt.svg
 [releases]: https://github.com/Arschoepf/addon-amr2mqtt/releases
 [rtlamr]: https://github.com/bemasher/rtlamr
