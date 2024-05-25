@@ -28,10 +28,8 @@ Got questions?
 
 You have several ways to get them answered:
 
-- The Home Assistant [Community Forum][forum]. I am
-  [CentralCommand][forum-centralcommand] there.
-- The Home Assistant [Discord Chat Server][discord-ha]. Use the #add-ons channel,
-  I am CentralCommand#0913 there.
+- The Home Assistant [Community Forum][forum].
+- The Home Assistant [Discord Chat Server][discord-ha]. Use the #add-ons channel.
 
 You could also [open an issue here][issue] on GitHub.
 
