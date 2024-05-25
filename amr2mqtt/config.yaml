@@ -44,6 +44,6 @@ services:
 slug: amr2mqtt
 uart: true
 udev: true
-url: https://github.com/mdegat01/addon-amr2mqtt
+url: https://github.com/Arschoepf/addon-amr2mqtt
 usb: true
 version: 2.1.2
